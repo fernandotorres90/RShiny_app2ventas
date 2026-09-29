@@ -1,5 +1,5 @@
 ###############################################################################
-# NOMBRE DEL ARCHIVO: serverNano.R
+# NOMBRE DEL ARCHIVO: serverVentas.R
 # AUTOR: Fernando Torres Vázquez
 # PROYECTO: Dashboard de Producción científica (NanoMx_hasta2024)
 # INSTITUCIÓN: UNAM
