@@ -1,5 +1,5 @@
 ###############################################################################
-# NOMBRE DEL ARCHIVO: uiNano.R
+# NOMBRE DEL ARCHIVO: uiVentas.R
 # AUTOR: Fernando Torres Vázquez
 # PROYECTO: Análisis y visualización de producción científica (NanoMx_hasta2024)
 # INSTITUCIÓN: UNAM
